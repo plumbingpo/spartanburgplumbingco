@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spartanburgplumbingco.com/sitemap.xml
